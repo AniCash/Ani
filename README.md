@@ -1,2 +1,2 @@
 # Ani
-My personal repository
+# About me
